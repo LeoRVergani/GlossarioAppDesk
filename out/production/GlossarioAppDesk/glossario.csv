@@ -12,5 +12,7 @@ Jacarezinho,"É a ponta do cabo do eletrocardiograma, é uma garrinha que lembra
 Bolachinha,"São os icones da tela inicial do E-Saúde, que se encontra após o login"
 SI-PNI,Sistema de Informação do Programa Nacional de Imunizações. (Ex.: sipni)
 NOC,Centro de Operações de Rede (Network Operations Center)
-Incidente, É incidente
+Incidente,  Incidente é um evento que não é parte padrão de um serviço, e que pode interromper a tarefa ou ação de um usuário. Geralmente é uma falha ou problema que impossibilite ou cause grande dificuldade na execução/continuação do trabalho do solicitante. - Exemplos: Micro não liga / Monitor queimou / Site ou sistema constando erro 400 / Falha no acesso à internet.
+Requisições, É uma solicitação para implementar um serviço que ainda não existe, um novo relatório por exemplo, ou a instalação de algum software. Para solicitações de serviço/ajuda/auxílio/configuração devem ser registradas Requisições. - Exemplos: Instalar Navegador / Suporte para salvar documentos em PDF / Auxílio com o layout do E-mail / Configurar proxy para acesso à internet.
+
 
