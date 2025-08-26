@@ -1,17 +1,73 @@
 Palavra,Definicao
-PAM,Portal do Servidor
-PACS,XViewer
-SGP,Sistema de Gestão Pública
-SISQUAL,"É um sistema de gestão de escala utilizado por coordenadores de CAPS, UPAs, Maternidade Bairro Novo, HIZA e LMC."
-GEDSI,Gerência de Data Center e Segurança da Informação
-eConsig,Sistema Digital de Consignações - Empréstimo
-RDL,Rede de Dados Local
-Ping,"Medida do tempo de resposta de uma conexão, indicando quão rápido um pacote de dados vai de um dispositivo para um servidor e retorna, medido em milissegundos (ms)"
-Tracert,é um comando de diagnóstico usado para rastrear o caminho que um pacote de dados percorre de um dispositivo (como um computador) até um destino específico na internet
-Jacarezinho,"É a ponta do cabo do eletrocardiograma, é uma garrinha que lembra o cabo de bateria de um carro"
+AB,Atenção Básica
+ACT,Alto Custo
+AIH,Autorização para Internamento Hospitalar
+ALM,Almoxarifado
+APAC,Autorização de Procedimento de Alta Complexidade
+APS,Atenção Primária à Saúde
 Bolachinha,"São os icones da tela inicial do E-Saúde, que se encontra após o login"
-SI-PNI,Sistema de Informação do Programa Nacional de Imunizações. (Ex.: sipni)
+BPA,Boletim de Produção Ambulatorial
+BPA-C,Boletim de Produção Ambulatorial Consolidado
+BPA-I,Boletim de Produção Ambulatorial Invidualizado
+CADSUS,Cadastro Nacional de Usuários do Sistema Único de Saúde
+CBO,Código Brasileiro de Ocupação
+CCO,Centro de Controle de Operações
+CEO,Centro de Especialidade Odontológica
+CES,Cadastro essencial
+CGSI,Coordenação Geral de Sistemas de Informação
+CID,Classificação Internacional de Doenças
+CLT,Central de Regulação de Leitos
+CMC,Central de Marcação
+CNAE,Cadastro Nacional de Atividades Econômica
+CNES,Cadastro Nacional de Estabelecimentos de Saúde
+CNS,Cartão Nacional de Saúde
+CSA,Centro de Saúde Ambiental
+CTH,Controle Hospitalar
+CTU,Atendimento Ambulatorial de Urgência
+CULTFEZ,Cultura de Fezes
+DATASUS,Departamento de Informática do SUS
+DRAC,"Departamento de Regulação, Avaliação e Controle"
+eConsig,Sistema Digital de Consignações - Empréstimo
+FEAS,Fundação Estatal de Atenção à Saúde
+FPO,Ficha de Programação Físico Orçamentária
+GAL,Gerenciador de Ambiente Laboratorial
+GEDSI,Gerência de Data Center e Segurança da Informação
+Incidente,"Incidente é um evento que não é parte padrão de um serviço, e que pode interromper a tarefa ou ação de um usuário. Ex: Micro não liga, Monitor queimou, sistema constando erro 400"
+Jacarezinho Cardioclip,"É a ponta do cabo do eletrocardiograma, é uma garrinha que lembra o cabo de bateria de um carro"
+LAB,Laboratório
+MS,Ministério da Saúde
 NOC,Centro de Operações de Rede (Network Operations Center)
-Incidente,Incidente é um evento que não é parte padrão de um serviço, e que pode interromper a tarefa ou ação de um usuário. Ex: Micro não liga, Monitor queimou, sistema constando erro 400
-Requisições,É uma solicitação para implementar um serviço que ainda não existe, um novo relatório por exemplo, ou a instalação de algum software. Ex: Instalar Navegador, Suporte para salvar documentos em PDF
+PACS,Aurora XViewer é um sistema que permite a visualização dos laudos e das imagens dos exames de diagnóstico por imagem
+PAM,Portal do Servidor
+PAVS,Plano de Ação em Vigilância Sanitária
+PEP,Prontuário Eletrônico do Paciente
+Ping,"Medida do tempo de resposta de uma conexão, indicando quão rápido um pacote de dados vai de um dispositivo para um servidor e retorna, medido em milissegundos"
+POD,Prontuário Odontológico
+PRT,Prontuário
+PSF,Programa Saúde da Família
+RAAS,Registro das Ações Ambulatoriais em Saúde
+RD,Relatórios
+RDL,Rede de Dados Local
+Requisições,"É uma solicitação para implementar um serviço que ainda não existe, um novo relatório por exemplo, ou a instalação de algum software. Ex: Instalar Navegador, Suporte para salvar documentos em PDF"
+SAS,Secretaria de Assistência à Saúde
+SCNES,Sistema de Cadastro Nacional de Estabelecimento de Saúde
+SEG,Segurança
+SERE,Sistema Estadual de Registro Escolar
+SES,Secretaria de Estado da Saúde
+SGP,Sistema de Gestão Pública
+SIAA,Sistema de Informações Ambulatoriais do SUS
+SIAB,Sistema de Informação de Atenção Básica
+SIGTAP,"Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos e Órteses, Próteses e Materiais Especiais do SUS"
+SI-PNI,"Sistema de Informação do Programa Nacional de Imunizações. (Ex.: sipni, scpa)"
+SISQUAL,"É um sistema de gestão de escala utilizado por coordenadores de CAPS, UPAs, Maternidade Bairro Novo, HIZA e LMC."
+SisPreNatal,Programa de Humanização no Pré-natal e Nascimento
+SUS,Sistema Único de Saúde
+TabWin,Foi desenvolvido com a finalidade de permitir a realização de tabulações rápidas sobre os arquivos DBF
+Tracert,É um comando usado para rastrear o caminho que um pacote de dados percorre pela internet até o destino
+TUP,Tabela Unificada de Procedimentos
+UPA,Unidade de Pronto Atendimento
+USU,Gerenciamento de Usuário
+VGE,Vigilância Epidemiológica
+
+
 
